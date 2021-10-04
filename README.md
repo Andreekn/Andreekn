@@ -9,4 +9,4 @@ Andreekn/Andreekn is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 Bueno mans me cree la cuenta para usar termux y pues si quieres.ser mi pana ta bien pa :D
 --->
-<cuadro>hola soy andre</cuadro>
+<cuadro>hola soy andre</cuadro> :)
